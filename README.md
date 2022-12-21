@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @qwopwsad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-qwopwsad/qwopwsad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in software development, machine learning, computer vision, scalable/cloud computing, IoT, CS Edu
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on basically anything you think is cool/interesting/challenging. Feel free to contact me if you are interested in working with me :-)
+- 📫 How to reach me: qwopwsad@gmail.com
